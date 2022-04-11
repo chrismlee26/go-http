@@ -1,7 +1,10 @@
 # HTTP Server in Go
 
 - Set up a HTTP server in Go
-- Serve static files 
+- Serve static files
+  - Image
+  - Text
+- Templates
 
 ### Go Packages:
 - ```"net/http"```
@@ -18,4 +21,5 @@ public
 ├── img
 │   └── test.jpeg
 └── index.html
+layout.html
 ```
